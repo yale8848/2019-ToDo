@@ -18,4 +18,4 @@
 
 ## Node
 
-- [deployx-Node deploy cli utils](https://github.com/yale8848/deployx)
+- [deployx - Node deploy cli utils npm package](https://github.com/yale8848/deployx)
