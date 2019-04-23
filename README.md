@@ -3,6 +3,8 @@
 ## Go
 
 - [stream - Golang stream lib is like Java 8 stream. Only handle slice or array. ](https://github.com/yale8848/stream)
+- [ratelimiter - ratelimiter is wrapper token-bucket and count-limit by golang
+](https://github.com/yale8848/ratelimiter) 
 
 ## Java
 
