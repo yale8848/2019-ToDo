@@ -7,7 +7,7 @@
 ](https://github.com/yale8848/ratelimiter) 
 - [DataUpdater - Golang remote data update with timer lib. You can update config auto.
 ](https://github.com/yale8848/DataUpdater)
-
+- [weixin-service](https://github.com/yale8848/weixin-service)
 ## Java
 
 - [Words - Words is for sentence util kit. Sensitive word filter . ](https://github.com/yale8848/Words)
